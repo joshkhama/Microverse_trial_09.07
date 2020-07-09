@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    /* 
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    */
+    padding: 10px;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    height: 10%;
+}
+img {
+    height: 8em;
+    width: auto;
+}
